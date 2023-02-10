@@ -1,0 +1,12 @@
+h3{
+    box-shadow:black;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+}
